@@ -12,11 +12,10 @@ by [crumb](https://twitter.com/aicrumb)
 
 ##### GPU:
 
-```git clone https://github.com/openai/CLIP && pip install -e ./CLIP
-
 ```
-
-python tinyvisions.py "prompt" 2000```
+git clone https://github.com/openai/CLIP && pip install -e ./CLIP
+python tinyvisions.py "prompt" 2000
+```
 
 where 2000 is the iterations, and "prompt" is .. your prompt
 
